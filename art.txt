@@ -1,0 +1,31 @@
+update art method described
+
+- choose theme
+
+- layout based update
+
+- image converted to binhex to load as one homepage.
+
+- js display options for ui
+
+- mobile friendly framework, - ionic, or translations to jade/pug based templates for mobile
+
+- grunt, gulp, bower based build tools, sass based css objecct library
+
+- testing with jasemine, and qunit
+
+- monitoring via piwik and collection of container scripts
+
+- containerization via vagrant, deploymeny via ansible, docker, vagrant for local dev.
+
+- ios code via swift
+ 
+- android code via ionic / meteor - cordova
+
+- hive-pig-hadoop connections via rest api
+
+- rest api for internal and client functions
+
+- auth login via github, facebook, google, twitter, linkedin, instagram, pinterest
+
+- pluggable architecture via JVM
